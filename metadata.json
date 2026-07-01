@@ -1,0 +1,6 @@
+{
+  "name": "Public Profile Page",
+  "description": "A high-fidelity, interactive public user profile page replicating the mobile interface of Alex Irawan (0xcid) with interactive button states.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
